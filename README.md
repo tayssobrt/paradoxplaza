@@ -1,1 +1,3 @@
-# paradoxplaza
+# Paradox Plaza
+
+datapack pro plaza
